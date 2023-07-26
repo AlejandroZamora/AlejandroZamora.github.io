@@ -13,6 +13,8 @@ typewriter
 .start();
 
 function limpiar(){
-
-    
+    document.getElementById("email").value="";//vaciar input
+    document.getElementById("nombre").value="";//vaciar input
+    document.getElementById("tel").value="";//vaciar input
+    document.getElementById("exampleFormControlTextarea1").value="";//vaciar input
 }
