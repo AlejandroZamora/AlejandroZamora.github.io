@@ -11,3 +11,8 @@ typewriter
 .pauseFor(200)
 .deleteChars(10)
 .start();
+
+function limpiar(){
+
+    
+}
